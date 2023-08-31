@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+*.vsidx
+/C03/P011/x64/Debug
+/C03/.vs/C03/v17
+/.vs
+/C03/x64/Debug
