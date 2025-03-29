@@ -21,6 +21,6 @@ T gcd2(T a, T b) {
 
 int main()
 {
-  std::cout << "gcd1(100, 20) = " << gcd1(100, 20) << '\n';
-  std::cout << "gcd2(100, 20) = " << gcd2(100, 20) << '\n';
+  std::cout << "gcd1(20, 14) = " << gcd1(20, 14) << '\n';
+  std::cout << "gcd2(20, 12) = " << gcd2(20, 12) << '\n';
 }
